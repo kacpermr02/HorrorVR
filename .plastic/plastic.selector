@@ -1,0 +1,4 @@
+repository "Horror_VR@JGKM@cloud"
+  path "/"
+    br "/main"
+    co "/main"
