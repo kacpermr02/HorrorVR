@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Horror_VR.sln"
+    "dotnet.defaultSolution": "HorrorVR.sln"
 }
