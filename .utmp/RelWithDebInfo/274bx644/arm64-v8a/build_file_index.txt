@@ -1,0 +1,2 @@
+C:\Users\kacpe\Documents\GitHub\HorrorVR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\kacpe\Documents\GitHub\HorrorVR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
